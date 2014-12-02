@@ -5,4 +5,5 @@ Rails params work, and craft a request that can make users admin users.
 
 You'll know you are done when it says that you are an admin user, like so:
 
-![](show-screen-with-admin.png)
+![](screenshot1.png)
+![](screenshot2.png)
